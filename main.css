@@ -1,0 +1,20 @@
+h1 {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.heading-intro {
+    color: red;
+}
+
+#button-heading {
+    margin-top: 0px;
+}
+
+#special-heading {
+    margin-bottom: 0px;
+}
+
+p {
+    color: black;
+}
